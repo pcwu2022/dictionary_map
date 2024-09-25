@@ -9,7 +9,7 @@ word_list = []
 
 def load_wordlist():
     global word_list
-    with open("wordlist.txt", "r") as file:
+    with open("wordlist_2.txt", "r") as file:
         word_list = file.read().split('\n')
 
 def load_dependencies():
@@ -57,11 +57,12 @@ def find_dependencies(word):
         return
     word_defs = beautify(word_defs)
     for found in word_defs:
-        if found in word_adj_map:
-            if found not in word_adj_map[found]:
-                word_adj_map[found].append(word)
-        else:
-            word_adj_map[found] = [word]
+        if found in word_list:
+            if found in word_adj_map:
+                if found not in word_adj_map[found]:
+                        word_adj_map[found].append(word)
+            else:
+                word_adj_map[found] = [word]
 
 def generate_map(limit=1200, batch=400, step=10):
     global current_parsing
@@ -83,4 +84,4 @@ def generate_map(limit=1200, batch=400, step=10):
             
 
 # program execute
-generate_map(1200, 400, 50)
+generate_map(1200, 400, 10)
