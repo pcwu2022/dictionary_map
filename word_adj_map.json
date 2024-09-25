@@ -1,0 +1,4461 @@
+{
+    "current_parsing": "abfarad",
+    "with": [
+        "a",
+        "ab",
+        "abacus",
+        "abalone",
+        "abandon",
+        "abandoned",
+        "abatis",
+        "abbot",
+        "abduct",
+        "aberrant"
+    ],
+    "action": [
+        "a",
+        "abatement",
+        "abdication",
+        "abet"
+    ],
+    "or": [
+        "a",
+        "aardvark",
+        "ab",
+        "aba",
+        "aback",
+        "abacus",
+        "abaft",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abasement",
+        "abash",
+        "abashed",
+        "abate",
+        "abatement",
+        "abating",
+        "abatis",
+        "abaxial",
+        "abba",
+        "abbacy",
+        "abbatial",
+        "abbess",
+        "abbey",
+        "abbot",
+        "abbreviate",
+        "abbreviated",
+        "abbreviation",
+        "abdicate",
+        "abdication",
+        "abdomen",
+        "abdominal",
+        "abduct",
+        "abduction",
+        "abductor",
+        "abeam",
+        "abecedarian",
+        "abed",
+        "aberrant",
+        "aberration",
+        "abet",
+        "abettor",
+        "abeyance"
+    ],
+    "script": [
+        "a"
+    ],
+    "all": [
+        "a",
+        "ab"
+    ],
+    "to": [
+        "a",
+        "aardvark",
+        "aardwolf",
+        "ab",
+        "aba",
+        "abaca",
+        "abaft",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abash",
+        "abashed",
+        "abate",
+        "abatement",
+        "abating",
+        "abatis",
+        "abattoir",
+        "abaxial",
+        "abba",
+        "abbatial",
+        "abbess",
+        "abbey",
+        "abbot",
+        "abbreviate",
+        "abbreviated",
+        "abbreviation",
+        "abdicate",
+        "abdomen",
+        "abdominal",
+        "abduct",
+        "abductor",
+        "abeam",
+        "abecedarian",
+        "abed",
+        "aberration",
+        "abet"
+    ],
+    "letter": [
+        "a"
+    ],
+    "per": [
+        "a"
+    ],
+    "name": [
+        "a"
+    ],
+    "on": [
+        "a",
+        "ab",
+        "aba",
+        "abacus",
+        "abaft",
+        "abandonment",
+        "abatement",
+        "abeam",
+        "abed",
+        "abet"
+    ],
+    "verb": [
+        "a"
+    ],
+    "do": [
+        "a",
+        "ab",
+        "abet"
+    ],
+    "onto": [
+        "a"
+    ],
+    "across": [
+        "a"
+    ],
+    "a": [
+        "a"
+    ],
+    "passive": [
+        "a"
+    ],
+    "direction": [
+        "a",
+        "ab",
+        "abbreviation"
+    ],
+    "process": [
+        "a",
+        "ab",
+        "abbreviation"
+    ],
+    "an": [
+        "a",
+        "ab",
+        "aba",
+        "aback",
+        "abacus",
+        "abalone",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abate",
+        "abatement",
+        "abating",
+        "abatis",
+        "abaxial",
+        "abba",
+        "abbacy",
+        "abbatial",
+        "abbe",
+        "abbey",
+        "abbot",
+        "abbreviate",
+        "abbreviation",
+        "abdominal",
+        "abecedarian",
+        "aberrant",
+        "aberration",
+        "abet",
+        "abettor"
+    ],
+    "crosswords": [
+        "a"
+    ],
+    "in": [
+        "a",
+        "aardvark",
+        "ab",
+        "aba",
+        "abaca",
+        "aback",
+        "abacus",
+        "abaft",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abate",
+        "abatement",
+        "abating",
+        "abatis",
+        "abaxial",
+        "abba",
+        "abbreviate",
+        "abbreviated",
+        "abbreviation",
+        "abdication",
+        "abdomen",
+        "abdominal",
+        "abduction",
+        "abecedarian",
+        "abed",
+        "aberration",
+        "abet",
+        "abeyance"
+    ],
+    "separation": [
+        "a"
+    ],
+    "capacity": [
+        "a"
+    ],
+    "active": [
+        "a"
+    ],
+    "engaged": [
+        "a",
+        "ab",
+        "abecedarian"
+    ],
+    "the": [
+        "a",
+        "aardvark",
+        "aardwolf",
+        "ab",
+        "aba",
+        "abaca",
+        "aback",
+        "abacus",
+        "abaft",
+        "abalone",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abasement",
+        "abash",
+        "abashed",
+        "abate",
+        "abatement",
+        "abating",
+        "abatis",
+        "abaxial",
+        "abba",
+        "abbacy",
+        "abbe",
+        "abbess",
+        "abbey",
+        "abbot",
+        "abbreviate",
+        "abbreviation",
+        "abdicate",
+        "abdication",
+        "abdomen",
+        "abdominal",
+        "abduct",
+        "abduction",
+        "abductor",
+        "abeam",
+        "abecedarian",
+        "abed",
+        "abelia",
+        "aberrant",
+        "aberration"
+    ],
+    "at": [
+        "a",
+        "ab",
+        "abeam"
+    ],
+    "experiencing": [
+        "a"
+    ],
+    "status": [
+        "a",
+        "abate",
+        "abating"
+    ],
+    "method": [
+        "a"
+    ],
+    "latin": [
+        "a"
+    ],
+    "of": [
+        "a",
+        "aardvark",
+        "aardwolf",
+        "ab",
+        "aba",
+        "abaca",
+        "aback",
+        "abacus",
+        "abaft",
+        "abalone",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abasement",
+        "abash",
+        "abashed",
+        "abate",
+        "abatement",
+        "abating",
+        "abatis",
+        "abaxial",
+        "abba",
+        "abbacy",
+        "abbe",
+        "abbess",
+        "abbey",
+        "abbot",
+        "abbreviate",
+        "abbreviated",
+        "abbreviation",
+        "abdicate",
+        "abdication",
+        "abdomen",
+        "abdominal",
+        "abduct",
+        "abduction",
+        "abductor",
+        "abeam",
+        "abecedarian",
+        "abelia",
+        "aberrant",
+        "aberration",
+        "abet",
+        "abeyance"
+    ],
+    "position": [
+        "a",
+        "ab",
+        "abaft",
+        "abandon",
+        "abandoned",
+        "abased",
+        "aberration"
+    ],
+    "each": [
+        "a"
+    ],
+    "movement": [
+        "a",
+        "ab",
+        "abduction"
+    ],
+    "time": [
+        "a",
+        "ab",
+        "abbreviate",
+        "abbreviated"
+    ],
+    "role": [
+        "a"
+    ],
+    "towards": [
+        "a",
+        "aback",
+        "abased"
+    ],
+    "by": [
+        "a",
+        "ab",
+        "aba",
+        "aback",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abash",
+        "abashed",
+        "abatement",
+        "abatis",
+        "abba",
+        "abbess",
+        "abbey",
+        "abbot",
+        "abbreviate",
+        "abbreviated",
+        "abdication",
+        "abdomen",
+        "abduct",
+        "aberration",
+        "abet"
+    ],
+    "into": [
+        "a",
+        "abacus",
+        "abbreviation"
+    ],
+    "course": [
+        "a",
+        "ab"
+    ],
+    "africa": [
+        "aardvark",
+        "aardwolf",
+        "aba"
+    ],
+    "who": [
+        "aardvark",
+        "abatis",
+        "abbess",
+        "abbot",
+        "abductor",
+        "abecedarian"
+    ],
+    "pig": [
+        "aardvark"
+    ],
+    "afer": [
+        "aardvark"
+    ],
+    "is": [
+        "aardvark",
+        "ab",
+        "abandonment",
+        "abatement",
+        "abatis",
+        "abaxial",
+        "abbey",
+        "abdomen",
+        "abduction",
+        "abecedarian",
+        "aberration"
+    ],
+    "person": [
+        "aardvark",
+        "ab",
+        "abandonment",
+        "abatement",
+        "aberrant",
+        "abet"
+    ],
+    "nocturnal": [
+        "aardvark",
+        "aardwolf"
+    ],
+    "resembling": [
+        "aardvark",
+        "aardwolf",
+        "abecedarian"
+    ],
+    "blunders": [
+        "aardvark"
+    ],
+    "tubulidentata": [
+        "aardvark"
+    ],
+    "mistakes": [
+        "aardvark"
+    ],
+    "silly": [
+        "aardvark"
+    ],
+    "credulous": [
+        "aardvark"
+    ],
+    "common": [
+        "aardvark",
+        "abandonment"
+    ],
+    "mammal": [
+        "aardvark",
+        "aardwolf"
+    ],
+    "somewhat": [
+        "aardvark"
+    ],
+    "order": [
+        "aardvark",
+        "ab",
+        "abbot",
+        "abdominal",
+        "abecedarian"
+    ],
+    "prone": [
+        "aardvark"
+    ],
+    "some": [
+        "aardvark",
+        "abacus",
+        "abaft",
+        "abdomen"
+    ],
+    "parts": [
+        "aardvark",
+        "ab",
+        "abbreviate",
+        "abbreviated"
+    ],
+    "orycteropus": [
+        "aardvark"
+    ],
+    "sub-saharan": [
+        "aardvark"
+    ],
+    "burrowing": [
+        "aardvark"
+    ],
+    "insectivorous": [
+        "aardvark",
+        "aardwolf"
+    ],
+    "and": [
+        "aardwolf",
+        "ab",
+        "aba",
+        "abaca",
+        "abandonment",
+        "abate",
+        "abatement",
+        "abating",
+        "abatis",
+        "abba",
+        "abbey",
+        "abbot",
+        "abbreviation",
+        "abdicate",
+        "abdomen",
+        "abdominal",
+        "abduct",
+        "abduction",
+        "abecedarian",
+        "aberration"
+    ],
+    "related": [
+        "aardwolf"
+    ],
+    "eastern": [
+        "aardwolf"
+    ],
+    "proteles": [
+        "aardwolf"
+    ],
+    "southern": [
+        "aardwolf"
+    ],
+    "hyena": [
+        "aardwolf"
+    ],
+    "cristatus": [
+        "aardwolf"
+    ],
+    "monstrosity": [
+        "ab"
+    ],
+    "abscess": [
+        "ab"
+    ],
+    "succession": [
+        "ab",
+        "abeyance"
+    ],
+    "its": [
+        "ab",
+        "abaca",
+        "aback",
+        "abandoned",
+        "abandonment",
+        "abdication",
+        "abeyance"
+    ],
+    "involving": [
+        "ab"
+    ],
+    "circularly": [
+        "ab"
+    ],
+    "account": [
+        "ab"
+    ],
+    "within": [
+        "ab",
+        "aberration"
+    ],
+    "directions": [
+        "ab"
+    ],
+    "offspring": [
+        "ab"
+    ],
+    "near": [
+        "ab"
+    ],
+    "concerned": [
+        "ab"
+    ],
+    "round": [
+        "ab"
+    ],
+    "immediate": [
+        "ab"
+    ],
+    "unproductive": [
+        "ab"
+    ],
+    "approximately": [
+        "ab",
+        "abeam"
+    ],
+    "now": [
+        "ab"
+    ],
+    "usually": [
+        "ab",
+        "abatis",
+        "abdominal",
+        "abduct",
+        "abduction"
+    ],
+    "another": [
+        "ab",
+        "abbreviate"
+    ],
+    "deliberately": [
+        "ab"
+    ],
+    "makeup": [
+        "ab"
+    ],
+    "expulsion": [
+        "ab"
+    ],
+    "so": [
+        "ab",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abatis"
+    ],
+    "arrest": [
+        "ab"
+    ],
+    "early": [
+        "ab",
+        "abecedarian"
+    ],
+    "term": [
+        "ab",
+        "abbacy"
+    ],
+    "checked": [
+        "ab"
+    ],
+    "maturation": [
+        "ab"
+    ],
+    "around": [
+        "ab"
+    ],
+    "under": [
+        "ab",
+        "abacus",
+        "abdominal"
+    ],
+    "command": [
+        "ab"
+    ],
+    "there": [
+        "ab"
+    ],
+    "repeated": [
+        "ab"
+    ],
+    "it": [
+        "ab",
+        "abandon",
+        "abandoned",
+        "abbreviation"
+    ],
+    "misshapen": [
+        "ab"
+    ],
+    "from": [
+        "ab",
+        "aba",
+        "aback",
+        "abandon",
+        "abandoned",
+        "abatement",
+        "abaxial",
+        "abba",
+        "abbey",
+        "abdicate",
+        "abdication",
+        "abduct",
+        "abduction",
+        "abductor",
+        "aberrant",
+        "aberration"
+    ],
+    "etc": [
+        "ab",
+        "abacus",
+        "abase",
+        "abased",
+        "abattoir",
+        "abet"
+    ],
+    "muscle": [
+        "ab",
+        "abdominal",
+        "abductor"
+    ],
+    "remains": [
+        "ab"
+    ],
+    "various": [
+        "ab",
+        "abelia"
+    ],
+    "fail": [
+        "ab",
+        "abdicate"
+    ],
+    "become": [
+        "ab",
+        "abash",
+        "abashed",
+        "abate",
+        "abating"
+    ],
+    "contrary": [
+        "ab"
+    ],
+    "degree": [
+        "ab"
+    ],
+    "minimally": [
+        "ab"
+    ],
+    "prevent": [
+        "ab"
+    ],
+    "womb": [
+        "ab"
+    ],
+    "intent": [
+        "ab"
+    ],
+    "after": [
+        "ab",
+        "abandonment",
+        "abate",
+        "abatement",
+        "abating",
+        "abbot"
+    ],
+    "opposite": [
+        "ab",
+        "abeam"
+    ],
+    "one": [
+        "ab",
+        "abacus",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abbreviate",
+        "abbreviation",
+        "abductor",
+        "abecedarian",
+        "aberration",
+        "abet",
+        "abettor"
+    ],
+    "miscarry": [
+        "ab"
+    ],
+    "either": [
+        "ab",
+        "aba"
+    ],
+    "turn": [
+        "ab",
+        "abandon",
+        "abandoned"
+    ],
+    "destroy": [
+        "ab",
+        "abash",
+        "abashed",
+        "abate",
+        "abating"
+    ],
+    "subject": [
+        "ab"
+    ],
+    "possession": [
+        "ab",
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "organic": [
+        "ab"
+    ],
+    "stage": [
+        "ab"
+    ],
+    "happen": [
+        "ab"
+    ],
+    "abdominal": [
+        "ab",
+        "abdominal"
+    ],
+    "proximity": [
+        "ab"
+    ],
+    "terminate": [
+        "ab"
+    ],
+    "induced": [
+        "ab"
+    ],
+    "mission": [
+        "ab"
+    ],
+    "completion": [
+        "ab"
+    ],
+    "cause": [
+        "ab",
+        "abase",
+        "abased",
+        "abate",
+        "abating",
+        "abet"
+    ],
+    "side": [
+        "ab",
+        "aback",
+        "abaft",
+        "abaxial",
+        "abeam"
+    ],
+    "upon": [
+        "ab",
+        "abandoned"
+    ],
+    "sides": [
+        "ab"
+    ],
+    "foetus": [
+        "ab"
+    ],
+    "promise": [
+        "ab"
+    ],
+    "disease": [
+        "ab"
+    ],
+    "over": [
+        "ab",
+        "abandon",
+        "abandoned",
+        "abbess"
+    ],
+    "injecting": [
+        "ab"
+    ],
+    "spontaneous": [
+        "ab"
+    ],
+    "forth": [
+        "ab"
+    ],
+    "contiguity": [
+        "ab"
+    ],
+    "prematurely": [
+        "ab"
+    ],
+    "away": [
+        "ab",
+        "abandon",
+        "abandoned",
+        "abate",
+        "abatement",
+        "abating",
+        "abaxial",
+        "abduct",
+        "abduction"
+    ],
+    "faculties": [
+        "ab"
+    ],
+    "neighborhood": [
+        "ab"
+    ],
+    "quality": [
+        "ab"
+    ],
+    "sterile": [
+        "ab"
+    ],
+    "indicates": [
+        "ab"
+    ],
+    "events": [
+        "ab"
+    ],
+    "throughout": [
+        "ab"
+    ],
+    "soon": [
+        "ab"
+    ],
+    "naturally": [
+        "ab"
+    ],
+    "place": [
+        "ab",
+        "abattoir"
+    ],
+    "remain": [
+        "ab",
+        "abandonment"
+    ],
+    "concerning": [
+        "ab"
+    ],
+    "thing": [
+        "ab"
+    ],
+    "abortus": [
+        "ab"
+    ],
+    "plan": [
+        "ab"
+    ],
+    "normal": [
+        "ab",
+        "abbreviated",
+        "aberration"
+    ],
+    "intention": [
+        "ab"
+    ],
+    "here": [
+        "ab"
+    ],
+    "project": [
+        "ab"
+    ],
+    "abandonment": [
+        "ab",
+        "abandon",
+        "abdication"
+    ],
+    "manner": [
+        "ab",
+        "abbreviate",
+        "abbreviated",
+        "abecedarian"
+    ],
+    "view": [
+        "ab"
+    ],
+    "circuitous": [
+        "ab"
+    ],
+    "nearly": [
+        "ab"
+    ],
+    "fully": [
+        "ab"
+    ],
+    "goal": [
+        "ab"
+    ],
+    "miscarriage": [
+        "ab"
+    ],
+    "absorbed": [
+        "ab"
+    ],
+    "non-living": [
+        "ab"
+    ],
+    "up": [
+        "ab",
+        "abandon",
+        "abandoned",
+        "abatis",
+        "abet"
+    ],
+    "bring": [
+        "ab",
+        "abate",
+        "abating"
+    ],
+    "pregnancy": [
+        "ab"
+    ],
+    "develop": [
+        "ab"
+    ],
+    "medicine": [
+        "ab"
+    ],
+    "back": [
+        "ab",
+        "aback",
+        "abaxial",
+        "abdomen",
+        "abet"
+    ],
+    "cessation": [
+        "ab",
+        "abandonment"
+    ],
+    "formation": [
+        "ab"
+    ],
+    "will": [
+        "ab",
+        "abatement"
+    ],
+    "organ": [
+        "ab",
+        "aberration"
+    ],
+    "called": [
+        "ab",
+        "abdomen"
+    ],
+    "very": [
+        "ab",
+        "aba",
+        "abba"
+    ],
+    "imperfect": [
+        "ab"
+    ],
+    "different": [
+        "ab",
+        "aberration"
+    ],
+    "circle": [
+        "ab"
+    ],
+    "close": [
+        "ab"
+    ],
+    "rare": [
+        "ab"
+    ],
+    "fro": [
+        "ab"
+    ],
+    "abseil": [
+        "ab"
+    ],
+    "stop": [
+        "ab"
+    ],
+    "missile": [
+        "ab"
+    ],
+    "affect": [
+        "ab"
+    ],
+    "as": [
+        "ab",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abase",
+        "abased",
+        "abash",
+        "abashed",
+        "abate",
+        "abating",
+        "abatis",
+        "abaxial",
+        "abbot",
+        "abbreviate",
+        "abbreviated",
+        "abbreviation",
+        "abdicate",
+        "abduct"
+    ],
+    "end": [
+        "ab",
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "any": [
+        "ab",
+        "abatement",
+        "abbreviation",
+        "abelia",
+        "abet"
+    ],
+    "that": [
+        "ab",
+        "aback",
+        "abandoned",
+        "abatement",
+        "abaxial",
+        "abbey",
+        "abdomen",
+        "abecedarian",
+        "aberrant",
+        "aberration",
+        "abettor"
+    ],
+    "developed": [
+        "ab"
+    ],
+    "rocket": [
+        "ab"
+    ],
+    "regard": [
+        "ab"
+    ],
+    "cease": [
+        "ab",
+        "abate",
+        "abating"
+    ],
+    "termination": [
+        "ab"
+    ],
+    "heroin": [
+        "ab"
+    ],
+    "abortion": [
+        "ab"
+    ],
+    "illness": [
+        "ab"
+    ],
+    "indicating": [
+        "ab"
+    ],
+    "stages": [
+        "ab",
+        "abbreviation"
+    ],
+    "mental": [
+        "ab",
+        "aberration"
+    ],
+    "drug": [
+        "ab"
+    ],
+    "outside": [
+        "ab",
+        "abandonment",
+        "abate",
+        "abating"
+    ],
+    "unstructured": [
+        "ab"
+    ],
+    "illegal": [
+        "ab"
+    ],
+    "vicinity": [
+        "ab"
+    ],
+    "growth": [
+        "ab"
+    ],
+    "point": [
+        "ab",
+        "abased",
+        "abate",
+        "abating",
+        "aberration"
+    ],
+    "fetus": [
+        "ab"
+    ],
+    "down": [
+        "ab",
+        "abase",
+        "abased",
+        "abate",
+        "abating"
+    ],
+    "development": [
+        "ab",
+        "aberration"
+    ],
+    "through": [
+        "ab",
+        "abbreviation"
+    ],
+    "almost": [
+        "ab"
+    ],
+    "abandon": [
+        "ab",
+        "abandonment"
+    ],
+    "reversed": [
+        "ab"
+    ],
+    "way": [
+        "ab",
+        "aback",
+        "abate",
+        "abatement",
+        "abating",
+        "aberrant"
+    ],
+    "nearby": [
+        "ab"
+    ],
+    "before": [
+        "ab",
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "organism": [
+        "ab"
+    ],
+    "rudimentary": [
+        "ab",
+        "abecedarian"
+    ],
+    "correspondence": [
+        "ab"
+    ],
+    "prior": [
+        "ab"
+    ],
+    "embryo": [
+        "ab",
+        "abaxial"
+    ],
+    "every": [
+        "ab"
+    ],
+    "control": [
+        "ab",
+        "abandon",
+        "abandoned"
+    ],
+    "activity": [
+        "ab"
+    ],
+    "circuit": [
+        "ab"
+    ],
+    "loss": [
+        "ab",
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abbreviation"
+    ],
+    "quantity": [
+        "ab"
+    ],
+    "preliminary": [
+        "ab"
+    ],
+    "caused": [
+        "ab"
+    ],
+    "half": [
+        "ab"
+    ],
+    "facing": [
+        "ab",
+        "abaxial"
+    ],
+    "wholly": [
+        "ab"
+    ],
+    "premature": [
+        "ab"
+    ],
+    "something": [
+        "ab",
+        "abet"
+    ],
+    "failure": [
+        "ab"
+    ],
+    "circumference": [
+        "ab"
+    ],
+    "shrink": [
+        "ab"
+    ],
+    "aborted": [
+        "ab"
+    ],
+    "start": [
+        "ab"
+    ],
+    "beginning": [
+        "ab"
+    ],
+    "middle": [
+        "aba",
+        "abatis",
+        "abba",
+        "abduction"
+    ],
+    "goat": [
+        "aba",
+        "abba"
+    ],
+    "such": [
+        "aba",
+        "abate",
+        "abating",
+        "abaxial",
+        "abba",
+        "abbreviation",
+        "aberration"
+    ],
+    "astronomy": [
+        "aba"
+    ],
+    "illustration": [
+        "aba",
+        "abba"
+    ],
+    "oblong": [
+        "aba",
+        "abacus",
+        "abba"
+    ],
+    "freshwater": [
+        "aba"
+    ],
+    "felted": [
+        "aba",
+        "abba"
+    ],
+    "breadths": [
+        "aba",
+        "abba"
+    ],
+    "stuff": [
+        "aba",
+        "abba"
+    ],
+    "coarse": [
+        "aba",
+        "abba"
+    ],
+    "used": [
+        "aba",
+        "abaca",
+        "abacus",
+        "abbreviation"
+    ],
+    "loose-fitting": [
+        "aba",
+        "abba"
+    ],
+    "aba": [
+        "aba"
+    ],
+    "frankfish": [
+        "aba"
+    ],
+    "worn": [
+        "aba",
+        "abba"
+    ],
+    "often": [
+        "aba",
+        "abba",
+        "abdomen"
+    ],
+    "striped": [
+        "aba",
+        "abba"
+    ],
+    "outer": [
+        "aba",
+        "abba"
+    ],
+    "niloticus": [
+        "aba"
+    ],
+    "camel": [
+        "aba",
+        "abba"
+    ],
+    "feet": [
+        "aba",
+        "abba"
+    ],
+    "desert": [
+        "aba",
+        "abandon",
+        "abandoned",
+        "abba"
+    ],
+    "water": [
+        "aba"
+    ],
+    "above": [
+        "aba",
+        "abba"
+    ],
+    "silk": [
+        "aba",
+        "abba"
+    ],
+    "altazimuth": [
+        "aba"
+    ],
+    "rivers": [
+        "aba"
+    ],
+    "shows": [
+        "aba",
+        "abba"
+    ],
+    "sewed": [
+        "aba",
+        "abba"
+    ],
+    "simple": [
+        "aba",
+        "abba"
+    ],
+    "for": [
+        "aba",
+        "abaca",
+        "abacus",
+        "abandonment",
+        "abatis",
+        "abattoir",
+        "abbe",
+        "abbreviation",
+        "abdicate"
+    ],
+    "together": [
+        "aba",
+        "abba"
+    ],
+    "nine": [
+        "aba",
+        "abba"
+    ],
+    "fabric": [
+        "aba",
+        "abba"
+    ],
+    "hair": [
+        "aba",
+        "abba"
+    ],
+    "two": [
+        "aba",
+        "abba"
+    ],
+    "swamps": [
+        "aba"
+    ],
+    "woven": [
+        "aba",
+        "abba"
+    ],
+    "four": [
+        "aba",
+        "abba"
+    ],
+    "found": [
+        "aba"
+    ],
+    "land": [
+        "aba"
+    ],
+    "arabs": [
+        "aba",
+        "abba"
+    ],
+    "form": [
+        "aba",
+        "abba",
+        "abbreviate",
+        "abbreviated",
+        "abbreviation",
+        "abduction"
+    ],
+    "gymnarchus": [
+        "aba"
+    ],
+    "garment": [
+        "aba",
+        "abba"
+    ],
+    "make": [
+        "aba",
+        "abash",
+        "abashed",
+        "abate",
+        "abating",
+        "abba",
+        "abbreviate",
+        "abbreviated"
+    ],
+    "fish": [
+        "aba",
+        "abdominal"
+    ],
+    "rat-tail": [
+        "aba"
+    ],
+    "east": [
+        "aba",
+        "abba"
+    ],
+    "african": [
+        "aba"
+    ],
+    "lakes": [
+        "aba"
+    ],
+    "knifefish": [
+        "aba"
+    ],
+    "sleeveless": [
+        "aba",
+        "abba"
+    ],
+    "made": [
+        "aba",
+        "abatis",
+        "abba",
+        "abbreviated"
+    ],
+    "about": [
+        "aba",
+        "abba"
+    ],
+    "electric": [
+        "aba"
+    ],
+    "textilis": [
+        "abaca"
+    ],
+    "rope": [
+        "abaca"
+    ],
+    "grown": [
+        "abaca"
+    ],
+    "musa": [
+        "abaca"
+    ],
+    "philippines": [
+        "abaca"
+    ],
+    "plant": [
+        "abaca"
+    ],
+    "textile": [
+        "abaca"
+    ],
+    "tree": [
+        "abaca"
+    ],
+    "fibre": [
+        "abaca"
+    ],
+    "banana": [
+        "abaca"
+    ],
+    "species": [
+        "abaca"
+    ],
+    "native": [
+        "abaca"
+    ],
+    "this": [
+        "abaca"
+    ],
+    "papermaking": [
+        "abaca"
+    ],
+    "rope-": [
+        "abaca"
+    ],
+    "fiber": [
+        "abaca"
+    ],
+    "against": [
+        "aback",
+        "abandonment",
+        "abatis"
+    ],
+    "set": [
+        "aback"
+    ],
+    "see": [
+        "aback",
+        "abatis"
+    ],
+    "startled": [
+        "aback"
+    ],
+    "mast": [
+        "aback"
+    ],
+    "are": [
+        "aback",
+        "abacus",
+        "abatis"
+    ],
+    "backward": [
+        "aback"
+    ],
+    "sails": [
+        "aback"
+    ],
+    "wrong": [
+        "aback"
+    ],
+    "rear": [
+        "aback"
+    ],
+    "when": [
+        "aback",
+        "abatement"
+    ],
+    "backwards": [
+        "aback",
+        "abaft"
+    ],
+    "pressed": [
+        "aback"
+    ],
+    "usage": [
+        "aback"
+    ],
+    "forward": [
+        "aback"
+    ],
+    "abacus": [
+        "aback"
+    ],
+    "said": [
+        "aback"
+    ],
+    "dumbfounded": [
+        "aback"
+    ],
+    "surprise": [
+        "aback"
+    ],
+    "distance": [
+        "aback"
+    ],
+    "wind": [
+        "aback"
+    ],
+    "ship": [
+        "aback",
+        "abandon",
+        "abandoned",
+        "abeam"
+    ],
+    "behind": [
+        "aback",
+        "abaft",
+        "abandon",
+        "abandoned",
+        "abdomen",
+        "abdominal"
+    ],
+    "next": [
+        "abacus"
+    ],
+    "portion": [
+        "abacus",
+        "abdomen"
+    ],
+    "kind": [
+        "abacus"
+    ],
+    "calculating": [
+        "abacus"
+    ],
+    "grooves": [
+        "abacus"
+    ],
+    "units": [
+        "abacus"
+    ],
+    "slab": [
+        "abacus"
+    ],
+    "column": [
+        "abacus"
+    ],
+    "tens": [
+        "abacus"
+    ],
+    "decorated": [
+        "abacus"
+    ],
+    "instrument": [
+        "abacus"
+    ],
+    "sliding": [
+        "abacus"
+    ],
+    "performing": [
+        "abacus"
+    ],
+    "bottles": [
+        "abacus"
+    ],
+    "tray": [
+        "abacus"
+    ],
+    "more": [
+        "abacus",
+        "abatis",
+        "abbreviation"
+    ],
+    "counters": [
+        "abacus"
+    ],
+    "divided": [
+        "abacus"
+    ],
+    "arithmetical": [
+        "abacus"
+    ],
+    "buffet": [
+        "abacus"
+    ],
+    "sand": [
+        "abacus"
+    ],
+    "cups": [
+        "abacus"
+    ],
+    "uppermost": [
+        "abacus"
+    ],
+    "drawing": [
+        "abacus",
+        "abduction"
+    ],
+    "flat": [
+        "abacus"
+    ],
+    "compartments": [
+        "abacus"
+    ],
+    "capital": [
+        "abacus"
+    ],
+    "beads": [
+        "abacus"
+    ],
+    "calculations": [
+        "abacus"
+    ],
+    "table": [
+        "abacus"
+    ],
+    "device": [
+        "abacus"
+    ],
+    "immediately": [
+        "abacus"
+    ],
+    "others": [
+        "abacus",
+        "abbreviated"
+    ],
+    "rods": [
+        "abacus"
+    ],
+    "loose": [
+        "abacus"
+    ],
+    "like": [
+        "abacus"
+    ],
+    "scattered": [
+        "abacus"
+    ],
+    "cases": [
+        "abacus"
+    ],
+    "row": [
+        "abacus"
+    ],
+    "which": [
+        "abacus",
+        "abatement",
+        "abbess",
+        "abbey",
+        "abdomen",
+        "abduction",
+        "abductor",
+        "abecedarian"
+    ],
+    "architrave": [
+        "abacus"
+    ],
+    "sideboard": [
+        "abacus"
+    ],
+    "commonly": [
+        "abacus"
+    ],
+    "board": [
+        "abacus"
+    ],
+    "perforated": [
+        "abacus"
+    ],
+    "square": [
+        "abacus"
+    ],
+    "representing": [
+        "abacus"
+    ],
+    "holding": [
+        "abacus",
+        "abandon",
+        "abandoned"
+    ],
+    "cupboard": [
+        "abacus"
+    ],
+    "placed": [
+        "abacus",
+        "abaxial"
+    ],
+    "was": [
+        "abacus",
+        "abbey"
+    ],
+    "object": [
+        "abaft",
+        "aberrant"
+    ],
+    "toward": [
+        "abaft",
+        "abatis"
+    ],
+    "relative": [
+        "abaft",
+        "abeam"
+    ],
+    "stern": [
+        "abaft"
+    ],
+    "other": [
+        "abaft",
+        "abate",
+        "abdicate",
+        "abdomen",
+        "abduct",
+        "abduction",
+        "aberration"
+    ],
+    "aft": [
+        "abaft"
+    ],
+    "shell": [
+        "abalone"
+    ],
+    "genus": [
+        "abalone",
+        "abelia"
+    ],
+    "univalve": [
+        "abalone"
+    ],
+    "meat": [
+        "abalone"
+    ],
+    "aforementioned": [
+        "abalone"
+    ],
+    "mother-of-pearl": [
+        "abalone"
+    ],
+    "edible": [
+        "abalone"
+    ],
+    "having": [
+        "abalone",
+        "abandoned",
+        "abased",
+        "abbess",
+        "abbreviate",
+        "abdominal",
+        "abdominous"
+    ],
+    "lined": [
+        "abalone",
+        "abdomen"
+    ],
+    "mollusc": [
+        "abalone"
+    ],
+    "haliotis": [
+        "abalone"
+    ],
+    "no": [
+        "abandon",
+        "abandoned"
+    ],
+    "take": [
+        "abandon",
+        "abandoned",
+        "abduct"
+    ],
+    "insurer": [
+        "abandon",
+        "abandoned"
+    ],
+    "discontinue": [
+        "abandon",
+        "abandoned"
+    ],
+    "item": [
+        "abandon",
+        "abandoned"
+    ],
+    "give": [
+        "abandon",
+        "abandoned"
+    ],
+    "odds": [
+        "abandon",
+        "abandoned"
+    ],
+    "total": [
+        "abandon",
+        "abandoned",
+        "abandonment"
+    ],
+    "doing": [
+        "abandon",
+        "abandoned"
+    ],
+    "impulses": [
+        "abandon"
+    ],
+    "especially": [
+        "abandon",
+        "abandoned",
+        "abased",
+        "aberrant",
+        "aberration"
+    ],
+    "relinquishment": [
+        "abandon",
+        "abandonment"
+    ],
+    "yield": [
+        "abandon",
+        "abandoned"
+    ],
+    "desist": [
+        "abandon",
+        "abandoned"
+    ],
+    "emotions": [
+        "abandon",
+        "abandoned",
+        "abandonment"
+    ],
+    "forsake": [
+        "abandon",
+        "abandoned"
+    ],
+    "overwhelming": [
+        "abandon",
+        "abandoned"
+    ],
+    "exercise": [
+        "abandon",
+        "abandoned",
+        "abeyance"
+    ],
+    "response": [
+        "abandon",
+        "abandoned"
+    ],
+    "expel": [
+        "abandon",
+        "abandoned",
+        "abdicate"
+    ],
+    "following": [
+        "abandon",
+        "abandoned"
+    ],
+    "yielding": [
+        "abandon"
+    ],
+    "inhibitions": [
+        "abandon"
+    ],
+    "claim": [
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abdication"
+    ],
+    "natural": [
+        "abandon",
+        "aberrant",
+        "aberration"
+    ],
+    "subdue": [
+        "abandon",
+        "abandoned"
+    ],
+    "insured": [
+        "abandon",
+        "abandoned",
+        "abandonment"
+    ],
+    "artificial": [
+        "abandon"
+    ],
+    "dangers": [
+        "abandon",
+        "abandoned"
+    ],
+    "duty": [
+        "abandon",
+        "abandoned"
+    ],
+    "impending": [
+        "abandon",
+        "abandoned"
+    ],
+    "reclaiming": [
+        "abandon",
+        "abandoned"
+    ],
+    "out": [
+        "abandon",
+        "abandoned",
+        "abatis",
+        "abaxial",
+        "abductor"
+    ],
+    "spite": [
+        "abandon",
+        "abandoned"
+    ],
+    "lapse": [
+        "abandon",
+        "abandoned",
+        "abeyance"
+    ],
+    "oneself": [
+        "abandon",
+        "abandoned",
+        "abdicate"
+    ],
+    "typically": [
+        "abandon",
+        "abandoned"
+    ],
+    "appreciation": [
+        "abandon"
+    ],
+    "interest": [
+        "abandon",
+        "abandoned",
+        "abdication"
+    ],
+    "reject": [
+        "abandon",
+        "abandoned",
+        "abdicate"
+    ],
+    "consequences": [
+        "abandon"
+    ],
+    "leave": [
+        "abandon",
+        "abandoned",
+        "abate",
+        "abating"
+    ],
+    "freedom": [
+        "abandon",
+        "abandonment"
+    ],
+    "surrender": [
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abdicate"
+    ],
+    "right": [
+        "abandon",
+        "abandoned",
+        "abandonment",
+        "abeam",
+        "aberrant",
+        "abeyance"
+    ],
+    "relinquish": [
+        "abandon",
+        "abandoned",
+        "abdicate"
+    ],
+    "permit": [
+        "abandon",
+        "abandoned"
+    ],
+    "practicing": [
+        "abandon",
+        "abandoned"
+    ],
+    "longer": [
+        "abandon",
+        "abandoned"
+    ],
+    "constraint": [
+        "abandon",
+        "abandoned"
+    ],
+    "banish": [
+        "abandon",
+        "abandoned"
+    ],
+    "adhering": [
+        "abandon",
+        "abandoned"
+    ],
+    "cast": [
+        "abandon",
+        "abandoned",
+        "abase",
+        "abased",
+        "abdicate"
+    ],
+    "title": [
+        "abandon",
+        "abandoned",
+        "abba",
+        "abbe",
+        "abeyance"
+    ],
+    "responsibility": [
+        "abandon",
+        "abandoned",
+        "abdicate"
+    ],
+    "again": [
+        "abandon",
+        "abandoned"
+    ],
+    "renounce": [
+        "abandon",
+        "abandoned",
+        "abdicate"
+    ],
+    "extremely": [
+        "abandoned"
+    ],
+    "free": [
+        "abandoned"
+    ],
+    "owners": [
+        "abandoned"
+    ],
+    "given": [
+        "abandoned",
+        "abba"
+    ],
+    "wicked": [
+        "abandoned"
+    ],
+    "deserted": [
+        "abandoned"
+    ],
+    "residents": [
+        "abandoned"
+    ],
+    "sinning": [
+        "abandoned"
+    ],
+    "without": [
+        "abandoned",
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "forsaken": [
+        "abandoned"
+    ],
+    "acted": [
+        "abandoned"
+    ],
+    "vice": [
+        "abandoned"
+    ],
+    "maintained": [
+        "abandoned"
+    ],
+    "restraint": [
+        "abandoned"
+    ],
+    "forces": [
+        "abandoned"
+    ],
+    "uninhibited": [
+        "abandoned"
+    ],
+    "being": [
+        "abandoned",
+        "abandonment",
+        "abasement",
+        "abatement",
+        "abdication",
+        "abdomen",
+        "abduct",
+        "abduction",
+        "abeam",
+        "abeyance"
+    ],
+    "formed": [
+        "abandoned",
+        "abatis"
+    ],
+    "immoral": [
+        "abandoned"
+    ],
+    "former": [
+        "abandoned"
+    ],
+    "irreclaimably": [
+        "abandoned"
+    ],
+    "geologic": [
+        "abandoned"
+    ],
+    "caretakers": [
+        "abandoned"
+    ],
+    "lines": [
+        "abandonment",
+        "abecedarian"
+    ],
+    "particular": [
+        "abandonment",
+        "abase",
+        "abased",
+        "abatement"
+    ],
+    "special": [
+        "abandonment"
+    ],
+    "what": [
+        "abandonment",
+        "aberration"
+    ],
+    "service": [
+        "abandonment"
+    ],
+    "render": [
+        "abandonment"
+    ],
+    "desertion": [
+        "abandonment"
+    ],
+    "property": [
+        "abandonment",
+        "abdication",
+        "abeyance"
+    ],
+    "building": [
+        "abandonment",
+        "abbey"
+    ],
+    "wife": [
+        "abandonment"
+    ],
+    "careless": [
+        "abandonment"
+    ],
+    "relation": [
+        "abandonment"
+    ],
+    "underwriters": [
+        "abandonment"
+    ],
+    "state": [
+        "abandonment",
+        "abasement",
+        "abatement",
+        "aberration"
+    ],
+    "secure": [
+        "abandonment",
+        "abatis"
+    ],
+    "receive": [
+        "abandonment"
+    ],
+    "voluntary": [
+        "abandonment",
+        "abdication"
+    ],
+    "abandoned": [
+        "abandonment"
+    ],
+    "value": [
+        "abandonment",
+        "abase",
+        "abased",
+        "abate",
+        "abating"
+    ],
+    "damaged": [
+        "abandonment"
+    ],
+    "worthless": [
+        "abandonment"
+    ],
+    "copyright": [
+        "abandonment"
+    ],
+    "may": [
+        "abandonment",
+        "abbot"
+    ],
+    "transit": [
+        "abandonment"
+    ],
+    "inventor": [
+        "abandonment"
+    ],
+    "granted": [
+        "abandonment"
+    ],
+    "leaving": [
+        "abandonment"
+    ],
+    "abandoning": [
+        "abandonment"
+    ],
+    "ease": [
+        "abandonment"
+    ],
+    "patent": [
+        "abandonment"
+    ],
+    "bound": [
+        "abandonment"
+    ],
+    "be": [
+        "abandonment",
+        "abate",
+        "abating",
+        "aberration"
+    ],
+    "damage": [
+        "abandonment"
+    ],
+    "author": [
+        "abandonment"
+    ],
+    "liable": [
+        "abandonment"
+    ],
+    "agency": [
+        "abandonment"
+    ],
+    "peril": [
+        "abandonment"
+    ],
+    "self-surrender": [
+        "abandonment"
+    ],
+    "whom": [
+        "abandonment"
+    ],
+    "structure": [
+        "abandonment",
+        "aberrant",
+        "aberration"
+    ],
+    "privilege": [
+        "abandonment"
+    ],
+    "carrier": [
+        "abandonment"
+    ],
+    "influence": [
+        "abandonment"
+    ],
+    "refusal": [
+        "abandonment"
+    ],
+    "government": [
+        "abandonment"
+    ],
+    "husband": [
+        "abandonment",
+        "abbot"
+    ],
+    "act": [
+        "abandonment",
+        "abasement",
+        "abatement",
+        "abbot",
+        "abdication",
+        "abduction",
+        "aberration",
+        "abet"
+    ],
+    "child": [
+        "abandonment",
+        "abdicate",
+        "abdication"
+    ],
+    "segment": [
+        "abandonment"
+    ],
+    "freight": [
+        "abandonment"
+    ],
+    "pain": [
+        "abase",
+        "abased"
+    ],
+    "life": [
+        "abase",
+        "abased"
+    ],
+    "lower": [
+        "abase",
+        "abased",
+        "abate",
+        "abatement",
+        "abating",
+        "abbreviate",
+        "abbreviated",
+        "abbreviation",
+        "abdomen"
+    ],
+    "feelings": [
+        "abase",
+        "abased"
+    ],
+    "debase": [
+        "abase",
+        "abased"
+    ],
+    "degrade": [
+        "abase",
+        "abased"
+    ],
+    "condition": [
+        "abase",
+        "abased",
+        "abeyance"
+    ],
+    "rank": [
+        "abase",
+        "abased"
+    ],
+    "humble": [
+        "abase",
+        "abased",
+        "abate",
+        "abating"
+    ],
+    "stoop": [
+        "abase",
+        "abased"
+    ],
+    "depress": [
+        "abase",
+        "abased"
+    ],
+    "hurt": [
+        "abase",
+        "abased"
+    ],
+    "physically": [
+        "abase",
+        "abased",
+        "abate",
+        "abating"
+    ],
+    "alloys": [
+        "abase",
+        "abased"
+    ],
+    "humiliate": [
+        "abase",
+        "abased"
+    ],
+    "throw": [
+        "abase",
+        "abased"
+    ],
+    "content": [
+        "abase",
+        "abased"
+    ],
+    "office": [
+        "abase",
+        "abased",
+        "abbey",
+        "abdicate",
+        "abdication"
+    ],
+    "altering": [
+        "abase",
+        "abased"
+    ],
+    "coins": [
+        "abase",
+        "abased"
+    ],
+    "borne": [
+        "abased"
+    ],
+    "lowered": [
+        "abased"
+    ],
+    "wings": [
+        "abased"
+    ],
+    "than": [
+        "abased",
+        "abbreviate",
+        "abbreviated"
+    ],
+    "also": [
+        "abased",
+        "abbey",
+        "abbot"
+    ],
+    "shield": [
+        "abased"
+    ],
+    "downward": [
+        "abased"
+    ],
+    "humbled": [
+        "abased",
+        "abasement",
+        "abate",
+        "abating"
+    ],
+    "turned": [
+        "abased"
+    ],
+    "ends": [
+        "abased",
+        "abatis"
+    ],
+    "prestige": [
+        "abased"
+    ],
+    "usual": [
+        "abased",
+        "aberrant"
+    ],
+    "fess": [
+        "abased"
+    ],
+    "abasing": [
+        "abasement"
+    ],
+    "abased": [
+        "abasement"
+    ],
+    "humiliation": [
+        "abasement"
+    ],
+    "humbling": [
+        "abasement"
+    ],
+    "low": [
+        "abasement"
+    ],
+    "bringing": [
+        "abasement"
+    ],
+    "inferiority": [
+        "abash",
+        "abashed"
+    ],
+    "embarrass": [
+        "abash",
+        "abashed"
+    ],
+    "mistake": [
+        "abash",
+        "abashed"
+    ],
+    "discomfit": [
+        "abash",
+        "abashed"
+    ],
+    "disconcert": [
+        "abash",
+        "abashed"
+    ],
+    "consciousness": [
+        "abash",
+        "abashed"
+    ],
+    "suddenly": [
+        "abash",
+        "abashed"
+    ],
+    "exciting": [
+        "abash",
+        "abashed"
+    ],
+    "ashamed": [
+        "abash",
+        "abashed"
+    ],
+    "self-possession": [
+        "abash",
+        "abashed"
+    ],
+    "guilt": [
+        "abash",
+        "abashed"
+    ],
+    "lose": [
+        "abash",
+        "abashed"
+    ],
+    "embarrassed": [
+        "abashed"
+    ],
+    "disconcerted": [
+        "abashed"
+    ],
+    "lessen": [
+        "abate",
+        "abating"
+    ],
+    "takes": [
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "edge": [
+        "abate",
+        "abating"
+    ],
+    "ground": [
+        "abate",
+        "abating"
+    ],
+    "law": [
+        "abate",
+        "abating"
+    ],
+    "decrease": [
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "null": [
+        "abate",
+        "abating"
+    ],
+    "has": [
+        "abate",
+        "abating"
+    ],
+    "reduce": [
+        "abate",
+        "abating",
+        "abbreviate",
+        "abbreviated"
+    ],
+    "relief": [
+        "abate",
+        "abating"
+    ],
+    "owner": [
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "sculpture": [
+        "abate",
+        "abating"
+    ],
+    "italian": [
+        "abate"
+    ],
+    "void": [
+        "abate",
+        "abating"
+    ],
+    "brought": [
+        "abate",
+        "abating"
+    ],
+    "except": [
+        "abate",
+        "abating"
+    ],
+    "tenement": [
+        "abate",
+        "abating"
+    ],
+    "permission": [
+        "abate",
+        "abating"
+    ],
+    "member": [
+        "abate",
+        "abbe"
+    ],
+    "intensity": [
+        "abate",
+        "abating"
+    ],
+    "curtail": [
+        "abate",
+        "abating"
+    ],
+    "figure": [
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "metalwork": [
+        "abate",
+        "abating"
+    ],
+    "abbot": [
+        "abate",
+        "abbacy",
+        "abbatial",
+        "abbe",
+        "abbey"
+    ],
+    "deprive": [
+        "abate",
+        "abating"
+    ],
+    "put": [
+        "abate",
+        "abating"
+    ],
+    "amount": [
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "hammer": [
+        "abate",
+        "abating"
+    ],
+    "subside": [
+        "abate",
+        "abating"
+    ],
+    "cut": [
+        "abate",
+        "abating"
+    ],
+    "size": [
+        "abate",
+        "abating"
+    ],
+    "someone": [
+        "abate",
+        "abating",
+        "abecedarian"
+    ],
+    "nullify": [
+        "abate",
+        "abating"
+    ],
+    "mentally": [
+        "abate",
+        "abating"
+    ],
+    "moderate": [
+        "abate",
+        "abating"
+    ],
+    "abatement": [
+        "abate"
+    ],
+    "dull": [
+        "abate",
+        "abating"
+    ],
+    "level": [
+        "abate",
+        "abating"
+    ],
+    "died": [
+        "abate",
+        "abating"
+    ],
+    "force": [
+        "abate",
+        "abating",
+        "abduct"
+    ],
+    "heir": [
+        "abate",
+        "abatement",
+        "abating"
+    ],
+    "clergy": [
+        "abate",
+        "abbe"
+    ],
+    "deduct": [
+        "abate",
+        "abating"
+    ],
+    "bar": [
+        "abate",
+        "abating"
+    ],
+    "omit": [
+        "abate",
+        "abating"
+    ],
+    "obsolete": [
+        "abate",
+        "abating"
+    ],
+    "blunt": [
+        "abate",
+        "abating"
+    ],
+    "enter": [
+        "abate",
+        "abating"
+    ],
+    "abating": [
+        "abatement"
+    ],
+    "yet": [
+        "abatement"
+    ],
+    "mark": [
+        "abatement"
+    ],
+    "putting": [
+        "abatement"
+    ],
+    "not": [
+        "abatement",
+        "abaxial",
+        "abdomen"
+    ],
+    "suppression": [
+        "abatement",
+        "abeyance"
+    ],
+    "lessening": [
+        "abatement"
+    ],
+    "reduction": [
+        "abatement",
+        "abbreviation"
+    ],
+    "abates": [
+        "abatement"
+    ],
+    "been": [
+        "abatement"
+    ],
+    "allowed": [
+        "abatement"
+    ],
+    "proper": [
+        "abatement",
+        "aberration"
+    ],
+    "authority": [
+        "abatement",
+        "abbess"
+    ],
+    "enters": [
+        "abatement"
+    ],
+    "due": [
+        "abatement",
+        "aberration"
+    ],
+    "tax": [
+        "abatement"
+    ],
+    "station": [
+        "abatement",
+        "abdicate"
+    ],
+    "bearer": [
+        "abatement"
+    ],
+    "arms": [
+        "abatement"
+    ],
+    "abated": [
+        "abatement"
+    ],
+    "taxes": [
+        "abatement"
+    ],
+    "satisfied": [
+        "abatement"
+    ],
+    "added": [
+        "abatement"
+    ],
+    "taken": [
+        "abatement"
+    ],
+    "coat": [
+        "abatement"
+    ],
+    "removal": [
+        "abatement"
+    ],
+    "debts": [
+        "abatement"
+    ],
+    "deduction": [
+        "abatement"
+    ],
+    "tending": [
+        "abatement"
+    ],
+    "diminution": [
+        "abatement"
+    ],
+    "dignity": [
+        "abatement",
+        "abbacy",
+        "abdicate",
+        "abdication"
+    ],
+    "proceeds": [
+        "abatement"
+    ],
+    "discount": [
+        "abatement"
+    ],
+    "rebate": [
+        "abatement"
+    ],
+    "escutcheon": [
+        "abatement"
+    ],
+    "moderation": [
+        "abatement"
+    ],
+    "dishonor": [
+        "abatement"
+    ],
+    "residence": [
+        "abatement",
+        "abbey"
+    ],
+    "death": [
+        "abatement"
+    ],
+    "have": [
+        "abatement",
+        "abbess"
+    ],
+    "anesis": [
+        "abating"
+    ],
+    "ages": [
+        "abatis"
+    ],
+    "keep": [
+        "abatis"
+    ],
+    "walls": [
+        "abatis"
+    ],
+    "embedded": [
+        "abatis"
+    ],
+    "had": [
+        "abatis"
+    ],
+    "trunks": [
+        "abatis"
+    ],
+    "trees": [
+        "abatis"
+    ],
+    "progress": [
+        "abatis"
+    ],
+    "piled": [
+        "abatis"
+    ],
+    "ditch": [
+        "abatis"
+    ],
+    "front": [
+        "abatis"
+    ],
+    "branches": [
+        "abatis"
+    ],
+    "secured": [
+        "abatis"
+    ],
+    "outward": [
+        "abatis"
+    ],
+    "underground": [
+        "abatis"
+    ],
+    "bent": [
+        "abatis"
+    ],
+    "denuded": [
+        "abatis"
+    ],
+    "avenor": [
+        "abatis"
+    ],
+    "sharpened": [
+        "abatis"
+    ],
+    "defense": [
+        "abatis"
+    ],
+    "crosswise": [
+        "abatis"
+    ],
+    "sometimes": [
+        "abatis",
+        "abbreviation",
+        "aberrant"
+    ],
+    "care": [
+        "abatis"
+    ],
+    "their": [
+        "abatis"
+    ],
+    "enemy": [
+        "abatis"
+    ],
+    "directed": [
+        "abatis"
+    ],
+    "fortified": [
+        "abatis"
+    ],
+    "measuring": [
+        "abatis"
+    ],
+    "obstructing": [
+        "abatis"
+    ],
+    "barbed": [
+        "abatis"
+    ],
+    "advancing": [
+        "abatis"
+    ],
+    "means": [
+        "abatis",
+        "abbreviate",
+        "abbreviated"
+    ],
+    "roads": [
+        "abatis"
+    ],
+    "officer": [
+        "abatis"
+    ],
+    "abatis": [
+        "abatis"
+    ],
+    "pickets": [
+        "abatis"
+    ],
+    "earth": [
+        "abatis"
+    ],
+    "outwards": [
+        "abatis"
+    ],
+    "upward": [
+        "abatis"
+    ],
+    "constructed": [
+        "abatis"
+    ],
+    "recently": [
+        "abatis"
+    ],
+    "wire": [
+        "abatis"
+    ],
+    "ventilation": [
+        "abatis"
+    ],
+    "whose": [
+        "abatis"
+    ],
+    "cord-wood": [
+        "abatis"
+    ],
+    "field-fortifications": [
+        "abatis"
+    ],
+    "open": [
+        "abatis"
+    ],
+    "barricade": [
+        "abatis"
+    ],
+    "smaller": [
+        "abatis"
+    ],
+    "purpose": [
+        "abatis"
+    ],
+    "felled": [
+        "abatis"
+    ],
+    "stables": [
+        "abatis"
+    ],
+    "coal-mining": [
+        "abatis"
+    ],
+    "provender": [
+        "abatis"
+    ],
+    "his": [
+        "abatis",
+        "abdicate"
+    ],
+    "fortification": [
+        "abatis"
+    ],
+    "butt-ends": [
+        "abatis"
+    ],
+    "public": [
+        "abattoir"
+    ],
+    "sheep": [
+        "abattoir"
+    ],
+    "slaughterhouse": [
+        "abattoir"
+    ],
+    "likened": [
+        "abattoir"
+    ],
+    "cattle": [
+        "abattoir"
+    ],
+    "seed": [
+        "abaxial"
+    ],
+    "line": [
+        "abaxial",
+        "abduction",
+        "abductor"
+    ],
+    "animal": [
+        "abaxial"
+    ],
+    "leaf": [
+        "abaxial"
+    ],
+    "underside": [
+        "abaxial"
+    ],
+    "central": [
+        "abaxial"
+    ],
+    "axis": [
+        "abaxial",
+        "abduct",
+        "abduction"
+    ],
+    "applied": [
+        "abaxial"
+    ],
+    "jewish": [
+        "abba"
+    ],
+    "bishops": [
+        "abba"
+    ],
+    "talmudic": [
+        "abba"
+    ],
+    "superior": [
+        "abba",
+        "abbess",
+        "abbot"
+    ],
+    "scholars": [
+        "abba"
+    ],
+    "period": [
+        "abba"
+    ],
+    "father": [
+        "abba",
+        "abdicate"
+    ],
+    "coptic": [
+        "abba"
+    ],
+    "religious": [
+        "abba"
+    ],
+    "ethiopic": [
+        "abba"
+    ],
+    "syriac": [
+        "abba"
+    ],
+    "patriarch": [
+        "abba"
+    ],
+    "churches": [
+        "abba"
+    ],
+    "estate": [
+        "abbacy",
+        "abeyance"
+    ],
+    "jurisdiction": [
+        "abbacy"
+    ],
+    "abbess": [
+        "abbacy",
+        "abbatial",
+        "abbey"
+    ],
+    "relating": [
+        "abbatial",
+        "abecedarian"
+    ],
+    "abbey": [
+        "abbatial",
+        "abbe",
+        "abbot"
+    ],
+    "belonging": [
+        "abbatial",
+        "abdominal"
+    ],
+    "pertaining": [
+        "abbatial",
+        "abdominal",
+        "abecedarian"
+    ],
+    "french": [
+        "abbe"
+    ],
+    "male": [
+        "abbe"
+    ],
+    "honorific": [
+        "abbe"
+    ],
+    "head": [
+        "abbe",
+        "abbot"
+    ],
+    "slang": [
+        "abbess",
+        "abbot"
+    ],
+    "female": [
+        "abbess"
+    ],
+    "find": [
+        "abbess",
+        "abbot"
+    ],
+    "abbots": [
+        "abbess"
+    ],
+    "runs": [
+        "abbess"
+    ],
+    "same": [
+        "abbess",
+        "aberration"
+    ],
+    "nuns": [
+        "abbess"
+    ],
+    "nunnery": [
+        "abbess"
+    ],
+    "brothel": [
+        "abbess"
+    ],
+    "prostitute": [
+        "abbess",
+        "abbot"
+    ],
+    "british": [
+        "abbess",
+        "abbot"
+    ],
+    "woman": [
+        "abbess"
+    ],
+    "employed": [
+        "abbess",
+        "abbot"
+    ],
+    "governess": [
+        "abbess"
+    ],
+    "monks": [
+        "abbess"
+    ],
+    "convent": [
+        "abbess"
+    ],
+    "clients": [
+        "abbess",
+        "abbot"
+    ],
+    "secluded": [
+        "abbey"
+    ],
+    "previously": [
+        "abbey"
+    ],
+    "headed": [
+        "abbey"
+    ],
+    "monastic": [
+        "abbey"
+    ],
+    "devoted": [
+        "abbey"
+    ],
+    "religion": [
+        "abbey"
+    ],
+    "monastery": [
+        "abbey",
+        "abbot"
+    ],
+    "church": [
+        "abbey"
+    ],
+    "dominion": [
+        "abbey"
+    ],
+    "abbatial": [
+        "abbey"
+    ],
+    "society": [
+        "abbey"
+    ],
+    "world": [
+        "abbey"
+    ],
+    "buildings": [
+        "abbey"
+    ],
+    "people": [
+        "abbey"
+    ],
+    "celibacy": [
+        "abbey"
+    ],
+    "bouncer": [
+        "abbot"
+    ],
+    "major": [
+        "abbot",
+        "abduction"
+    ],
+    "porter": [
+        "abbot"
+    ],
+    "brothel-owner": [
+        "abbot"
+    ],
+    "closing": [
+        "abbot"
+    ],
+    "bodyguard": [
+        "abbot"
+    ],
+    "received": [
+        "abbot"
+    ],
+    "minor": [
+        "abbot",
+        "abduction",
+        "aberration"
+    ],
+    "starting": [
+        "abbot"
+    ],
+    "ponce": [
+        "abbot"
+    ],
+    "orders": [
+        "abbot"
+    ],
+    "layman": [
+        "abbot"
+    ],
+    "man": [
+        "abbot"
+    ],
+    "pastor": [
+        "abbot"
+    ],
+    "revenues": [
+        "abbot"
+    ],
+    "administrator": [
+        "abbot"
+    ],
+    "monasteries": [
+        "abbot"
+    ],
+    "lover": [
+        "abbot"
+    ],
+    "equivalent": [
+        "abbot"
+    ],
+    "including": [
+        "abbot",
+        "abbreviation",
+        "abdomen"
+    ],
+    "contraction": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "ordinary": [
+        "abbreviate",
+        "aberrant"
+    ],
+    "abbreviated": [
+        "abbreviate"
+    ],
+    "word": [
+        "abbreviate",
+        "abbreviated",
+        "abbreviation"
+    ],
+    "terms": [
+        "abbreviate",
+        "abbreviated",
+        "abbreviation"
+    ],
+    "relatively": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "fraction": [
+        "abbreviate",
+        "abbreviated",
+        "abbreviation"
+    ],
+    "write": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "phrase": [
+        "abbreviate",
+        "abbreviated",
+        "abbreviation"
+    ],
+    "sooner": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "details": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "planned": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "omission": [
+        "abbreviate",
+        "abbreviated",
+        "abbreviation"
+    ],
+    "abridged": [
+        "abbreviate"
+    ],
+    "shorten": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "omitting": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "type": [
+        "abbreviate",
+        "aberrant",
+        "aberration"
+    ],
+    "shorter": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "abridge": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "ending": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "abridgment": [
+        "abbreviate",
+        "abbreviation"
+    ],
+    "speak": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "part": [
+        "abbreviate",
+        "abdomen",
+        "abduct",
+        "abduction",
+        "abductor"
+    ],
+    "recognizable": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "brief": [
+        "abbreviate",
+        "abbreviated"
+    ],
+    "shortened": [
+        "abbreviate",
+        "abbreviated",
+        "abbreviation"
+    ],
+    "briefer": [
+        "abbreviated"
+    ],
+    "short": [
+        "abbreviated",
+        "abbreviation"
+    ],
+    "clothing": [
+        "abbreviated"
+    ],
+    "compared": [
+        "abbreviated"
+    ],
+    "scanty": [
+        "abbreviated"
+    ],
+    "dashes": [
+        "abbreviation"
+    ],
+    "signify": [
+        "abbreviation"
+    ],
+    "dividing": [
+        "abbreviation"
+    ],
+    "signs": [
+        "abbreviation"
+    ],
+    "shortening": [
+        "abbreviation"
+    ],
+    "note": [
+        "abbreviation"
+    ],
+    "substitution": [
+        "abbreviation"
+    ],
+    "initial": [
+        "abbreviation"
+    ],
+    "utilizing": [
+        "abbreviation"
+    ],
+    "contracted": [
+        "abbreviation"
+    ],
+    "+": [
+        "abbreviation"
+    ],
+    "quavers": [
+        "abbreviation"
+    ],
+    "evolution": [
+        "abbreviation"
+    ],
+    "semiquavers": [
+        "abbreviation"
+    ],
+    "letters": [
+        "abbreviation"
+    ],
+    "abbreviating": [
+        "abbreviation"
+    ],
+    "pattern": [
+        "abbreviation"
+    ],
+    "result": [
+        "abbreviation"
+    ],
+    "demisemiquavers": [
+        "abbreviation"
+    ],
+    "mf": [
+        "abbreviation"
+    ],
+    "understood": [
+        "abbreviation"
+    ],
+    "inferred": [
+        "abbreviation"
+    ],
+    "score": [
+        "abbreviation"
+    ],
+    "@": [
+        "abbreviation"
+    ],
+    "stem": [
+        "abbreviation"
+    ],
+    "during": [
+        "abbreviation"
+    ],
+    "notation": [
+        "abbreviation"
+    ],
+    "plurality": [
+        "abbreviation"
+    ],
+    "=": [
+        "abbreviation"
+    ],
+    "hemidemisemiquavers": [
+        "abbreviation"
+    ],
+    "final": [
+        "abbreviation"
+    ],
+    "ontogenetic": [
+        "abbreviation"
+    ],
+    "ancestral": [
+        "abbreviation"
+    ],
+    "denote": [
+        "abbreviation"
+    ],
+    "whole": [
+        "abbreviation"
+    ],
+    "music": [
+        "abbreviation"
+    ],
+    "convenient": [
+        "abbreviation"
+    ],
+    "pp": [
+        "abbreviation"
+    ],
+    "reducing": [
+        "abbreviation"
+    ],
+    "respectively": [
+        "abbreviation"
+    ],
+    "duplication": [
+        "abbreviation"
+    ],
+    "represent": [
+        "abbreviation"
+    ],
+    "withdraw": [
+        "abdicate"
+    ],
+    "high": [
+        "abdicate",
+        "abdication"
+    ],
+    "divest": [
+        "abdicate"
+    ],
+    "disclaim": [
+        "abdicate"
+    ],
+    "sovereignty": [
+        "abdicate"
+    ],
+    "throne": [
+        "abdicate"
+    ],
+    "exercising": [
+        "abdicate"
+    ],
+    "sovereign": [
+        "abdicate",
+        "abdication"
+    ],
+    "depose": [
+        "abdicate"
+    ],
+    "fulfill": [
+        "abdicate"
+    ],
+    "off": [
+        "abdicate",
+        "abduction"
+    ],
+    "definitely": [
+        "abdicate"
+    ],
+    "filling": [
+        "abdicate"
+    ],
+    "discard": [
+        "abdicate"
+    ],
+    "formally": [
+        "abdicate"
+    ],
+    "power": [
+        "abdicate",
+        "abdication"
+    ],
+    "disinherit": [
+        "abdicate"
+    ],
+    "family": [
+        "abdicate"
+    ],
+    "separate": [
+        "abdicate"
+    ],
+    "disown": [
+        "abdicate"
+    ],
+    "holder": [
+        "abdication"
+    ],
+    "legal": [
+        "abdication"
+    ],
+    "abdicating": [
+        "abdication"
+    ],
+    "seat": [
+        "abdication"
+    ],
+    "renunciation": [
+        "abdication"
+    ],
+    "trust": [
+        "abdication"
+    ],
+    "disinheriting": [
+        "abdication"
+    ],
+    "deposed": [
+        "abdication"
+    ],
+    "disowning": [
+        "abdication"
+    ],
+    "body": [
+        "abdomen",
+        "abduct",
+        "abduction",
+        "abductor"
+    ],
+    "contains": [
+        "abdomen"
+    ],
+    "vertebrates": [
+        "abdomen"
+    ],
+    "peritoneum": [
+        "abdomen"
+    ],
+    "section": [
+        "abdomen"
+    ],
+    "cavity": [
+        "abdomen"
+    ],
+    "pelvis": [
+        "abdomen"
+    ],
+    "fat": [
+        "abdomen"
+    ],
+    "humans": [
+        "abdomen"
+    ],
+    "cardiac": [
+        "abdomen"
+    ],
+    "restricted": [
+        "abdomen"
+    ],
+    "pelvic": [
+        "abdomen"
+    ],
+    "posterior": [
+        "abdomen"
+    ],
+    "viscera": [
+        "abdomen"
+    ],
+    "belly": [
+        "abdomen",
+        "abdominous"
+    ],
+    "insects": [
+        "abdomen"
+    ],
+    "between": [
+        "abdomen"
+    ],
+    "diaphragm": [
+        "abdomen"
+    ],
+    "regions": [
+        "abdomen"
+    ],
+    "crustaceans": [
+        "abdomen"
+    ],
+    "commencement": [
+        "abdomen"
+    ],
+    "surrounding": [
+        "abdomen"
+    ],
+    "arthropoda": [
+        "abdomen"
+    ],
+    "thorax": [
+        "abdomen"
+    ],
+    "remainder": [
+        "abdomen"
+    ],
+    "caudal": [
+        "abdomen"
+    ],
+    "plurale": [
+        "abdominal"
+    ],
+    "abdomen": [
+        "abdominal"
+    ],
+    "fin": [
+        "abdominal"
+    ],
+    "abdominales": [
+        "abdominal"
+    ],
+    "pectoral": [
+        "abdominal"
+    ],
+    "fins": [
+        "abdominal"
+    ],
+    "tantum": [
+        "abdominal"
+    ],
+    "ventral": [
+        "abdominal"
+    ],
+    "describing": [
+        "abdominal"
+    ],
+    "protuberant": [
+        "abdominous"
+    ],
+    "potbellied": [
+        "abdominous"
+    ],
+    "kidnap": [
+        "abduct"
+    ],
+    "median": [
+        "abduct",
+        "abductor"
+    ],
+    "human": [
+        "abduct",
+        "abduction"
+    ],
+    "limb": [
+        "abduct",
+        "abduction"
+    ],
+    "carry": [
+        "abduct"
+    ],
+    "violence": [
+        "abduct"
+    ],
+    "deception": [
+        "abduct"
+    ],
+    "draw": [
+        "abduct",
+        "abductor"
+    ],
+    "wrongfully": [
+        "abduct"
+    ],
+    "probable": [
+        "abduction"
+    ],
+    "argument": [
+        "abduction"
+    ],
+    "separates": [
+        "abduction"
+    ],
+    "carrying": [
+        "abduction"
+    ],
+    "leading": [
+        "abduction"
+    ],
+    "wrongful": [
+        "abduction"
+    ],
+    "premise": [
+        "abduction"
+    ],
+    "but": [
+        "abduction",
+        "abeyance"
+    ],
+    "evident": [
+        "abduction"
+    ],
+    "only": [
+        "abduction"
+    ],
+    "abducting": [
+        "abduction"
+    ],
+    "apart": [
+        "abduction"
+    ],
+    "syllogism": [
+        "abduction"
+    ],
+    "forcible": [
+        "abduction"
+    ],
+    "abducing": [
+        "abduction"
+    ],
+    "abducts": [
+        "abductor"
+    ],
+    "serves": [
+        "abductor"
+    ],
+    "kidnapper": [
+        "abductor"
+    ],
+    "keel": [
+        "abeam"
+    ],
+    "center": [
+        "abeam"
+    ],
+    "beam": [
+        "abeam"
+    ],
+    "centerline": [
+        "abeam"
+    ],
+    "abreast": [
+        "abeam"
+    ],
+    "090": [
+        "abeam"
+    ],
+    "270": [
+        "abeam"
+    ],
+    "vessel": [
+        "abeam"
+    ],
+    "degrees": [
+        "abeam"
+    ],
+    "angle": [
+        "abeam"
+    ],
+    "aircraft": [
+        "abeam"
+    ],
+    "bearing": [
+        "abeam"
+    ],
+    "alongside": [
+        "abeam"
+    ],
+    "words": [
+        "abecedarian"
+    ],
+    "learning": [
+        "abecedarian"
+    ],
+    "student": [
+        "abecedarian"
+    ],
+    "elementary": [
+        "abecedarian"
+    ],
+    "basic": [
+        "abecedarian"
+    ],
+    "work": [
+        "abecedarian"
+    ],
+    "uses": [
+        "abecedarian"
+    ],
+    "teaching": [
+        "abecedarian"
+    ],
+    "alphabet": [
+        "abecedarian"
+    ],
+    "steps": [
+        "abecedarian"
+    ],
+    "methods": [
+        "abecedarian"
+    ],
+    "novice": [
+        "abecedarian"
+    ],
+    "several": [
+        "abecedarian"
+    ],
+    "teacher": [
+        "abecedarian"
+    ],
+    "abecedarius": [
+        "abecedarian"
+    ],
+    "alphabets": [
+        "abecedarian"
+    ],
+    "studies": [
+        "abecedarian"
+    ],
+    "arranged": [
+        "abecedarian"
+    ],
+    "teaches": [
+        "abecedarian"
+    ],
+    "principles": [
+        "abecedarian"
+    ],
+    "alphabetical": [
+        "abecedarian"
+    ],
+    "bed": [
+        "abed"
+    ],
+    "confined": [
+        "abed"
+    ],
+    "childbed": [
+        "abed"
+    ],
+    "honeysuckles": [
+        "abelia"
+    ],
+    "abelia": [
+        "abelia"
+    ],
+    "abnormal": [
+        "aberrant",
+        "aberration"
+    ],
+    "group": [
+        "aberrant"
+    ],
+    "norm": [
+        "aberrant"
+    ],
+    "chromosome": [
+        "aberrant"
+    ],
+    "deviates": [
+        "aberrant"
+    ],
+    "exceptional": [
+        "aberrant"
+    ],
+    "number": [
+        "aberrant"
+    ],
+    "atypical": [
+        "aberrant",
+        "aberration"
+    ],
+    "figurative": [
+        "aberrant"
+    ],
+    "deviating": [
+        "aberrant"
+    ],
+    "morality": [
+        "aberrant"
+    ],
+    "truth": [
+        "aberrant",
+        "aberration"
+    ],
+    "individual": [
+        "aberrant"
+    ],
+    "differing": [
+        "aberrant"
+    ],
+    "rest": [
+        "aberrant"
+    ],
+    "straying": [
+        "aberrant"
+    ],
+    "deviation": [
+        "aberration"
+    ],
+    "effect": [
+        "aberration"
+    ],
+    "functions": [
+        "aberration"
+    ],
+    "small": [
+        "aberration"
+    ],
+    "convergence": [
+        "aberration"
+    ],
+    "prevents": [
+        "aberration"
+    ],
+    "moral": [
+        "aberration"
+    ],
+    "single": [
+        "aberration"
+    ],
+    "mirror": [
+        "aberration"
+    ],
+    "periodical": [
+        "aberration"
+    ],
+    "intended": [
+        "aberration"
+    ],
+    "defect": [
+        "aberration"
+    ],
+    "focus": [
+        "aberration"
+    ],
+    "temporary": [
+        "aberration",
+        "abeyance"
+    ],
+    "bodies": [
+        "aberration"
+    ],
+    "reason": [
+        "aberration"
+    ],
+    "motion": [
+        "aberration"
+    ],
+    "focal": [
+        "aberration"
+    ],
+    "range": [
+        "aberration"
+    ],
+    "aberrant": [
+        "aberration"
+    ],
+    "mechanism": [
+        "aberration"
+    ],
+    "emanating": [
+        "aberration"
+    ],
+    "partial": [
+        "aberration"
+    ],
+    "lens": [
+        "aberration"
+    ],
+    "disorder": [
+        "aberration"
+    ],
+    "divergence": [
+        "aberration"
+    ],
+    "combined": [
+        "aberration"
+    ],
+    "heavenly": [
+        "aberration"
+    ],
+    "change": [
+        "aberration"
+    ],
+    "observer": [
+        "aberration"
+    ],
+    "rectitude": [
+        "aberration"
+    ],
+    "tissue": [
+        "aberration"
+    ],
+    "foci": [
+        "aberration"
+    ],
+    "straight": [
+        "aberration"
+    ],
+    "considered": [
+        "aberration"
+    ],
+    "light": [
+        "aberration"
+    ],
+    "alienation": [
+        "aberration"
+    ],
+    "wandering": [
+        "aberration"
+    ],
+    "stars": [
+        "aberration"
+    ],
+    "rays": [
+        "aberration"
+    ],
+    "focusing": [
+        "aberration"
+    ],
+    "correct": [
+        "aberration"
+    ],
+    "character": [
+        "aberration"
+    ],
+    "abetting": [
+        "abet"
+    ],
+    "assist": [
+        "abet"
+    ],
+    "bet": [
+        "abet"
+    ],
+    "opinion": [
+        "abet"
+    ],
+    "giving": [
+        "abet"
+    ],
+    "issue": [
+        "abet"
+    ],
+    "aid": [
+        "abet"
+    ],
+    "desirable": [
+        "abet"
+    ],
+    "stimulate": [
+        "abet"
+    ],
+    "fraud": [
+        "abet"
+    ],
+    "countenance": [
+        "abet"
+    ],
+    "crime": [
+        "abet"
+    ],
+    "doubtful": [
+        "abet"
+    ],
+    "money": [
+        "abet"
+    ],
+    "support": [
+        "abet"
+    ],
+    "forecast": [
+        "abet"
+    ],
+    "encourage": [
+        "abet"
+    ],
+    "uphold": [
+        "abet"
+    ],
+    "incite": [
+        "abet"
+    ],
+    "urge": [
+        "abet"
+    ],
+    "helping": [
+        "abet"
+    ],
+    "good": [
+        "abet"
+    ],
+    "staking": [
+        "abet"
+    ],
+    "cunning": [
+        "abet"
+    ],
+    "maintain": [
+        "abet"
+    ],
+    "offender": [
+        "abettor"
+    ],
+    "incites": [
+        "abettor"
+    ],
+    "abets": [
+        "abettor"
+    ],
+    "advocate": [
+        "abettor"
+    ],
+    "encourages": [
+        "abettor"
+    ],
+    "instigates": [
+        "abettor"
+    ],
+    "supporter": [
+        "abettor"
+    ],
+    "real": [
+        "abeyance"
+    ],
+    "undetermined": [
+        "abeyance"
+    ],
+    "existence": [
+        "abeyance"
+    ],
+    "expectancy": [
+        "abeyance"
+    ],
+    "dormant": [
+        "abeyance"
+    ],
+    "suspended": [
+        "abeyance"
+    ],
+    "suspension": [
+        "abeyance"
+    ],
+    "ownership": [
+        "abeyance"
+    ]
+}
