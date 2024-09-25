@@ -84,4 +84,4 @@ def generate_map(limit=1200, batch=400, step=10):
             
 
 # program execute
-generate_map(1200, 400, 10)
+generate_map(1200, 400, 50)
