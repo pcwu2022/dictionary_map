@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 
 DICT_API = "https://api.dictionaryapi.dev/api/v2/entries/en"
 word_adj_map = {}
@@ -62,10 +63,11 @@ def find_dependencies(word):
         else:
             word_adj_map[found] = [word]
 
-def generate_map(limit=100, step=10):
+def generate_map(limit=1200, batch=400, step=10):
     global current_parsing
     load_wordlist()
     load_dependencies()
+    start_time = time.time()
     start_index = word_list.index(current_parsing)
     for i in range(limit):
         find_dependencies(word_list[start_index + i])
@@ -73,7 +75,12 @@ def generate_map(limit=100, step=10):
             current_parsing = word_list[start_index + i + 1]
             print("Parsing: " + current_parsing)
             dump_dependencies()
+        if i % batch == batch - 1:
+            current_time = time.time()
+            print(f"sleeping for {5 * 60 - (current_time - start_time)} seconds...")
+            time.sleep(5 * 60 - (current_time - start_time))
+            start_time = time.time() # seconds
             
 
 # program execute
-generate_map(100, 10)
+generate_map(1200, 400, 50)
