@@ -2,6 +2,8 @@ import json
 import zipfile
 import os
 
+threshold = 10
+
 folder_to_zip = './db'
 output_zip_file = 'db_vault.zip'
 def zip_folder(folder_path, output_zip):
@@ -32,6 +34,8 @@ def beautify(word):
 def extract_json():
     word_adj_map = load_dependencies()
     for word in word_adj_map:
+        if len(word_adj_map[word]) < threshold:
+            continue
         md_context = '\n'.join(["[[" + w + "]]" for w in word_adj_map[word]])
         filename = "./db/" + beautify(word) + ".md"
         with open(filename, 'w') as file:
