@@ -2,7 +2,7 @@ import json
 import zipfile
 import os
 
-threshold = 30
+threshold = 100
 
 folder_to_zip = './db'
 output_zip_file = 'db_vault.zip'
