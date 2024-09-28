@@ -2,10 +2,10 @@ import json
 import zipfile
 import os
 
-threshold = 100
+threshold = 150
 
-folder_to_zip = './db'
-output_zip_file = 'db_vault.zip'
+folder_to_zip = '../db'
+output_zip_file = '../db_vault.zip'
 def zip_folder(folder_path, output_zip):
     # Create a ZipFile object
     with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
@@ -31,6 +31,10 @@ def beautify(word):
     word = word.lower()
     return word
 
+def save_file(filename, context):
+    with open(filename, 'w') as file:
+        file.write(context)
+
 def extract_json():
     word_adj_map = load_dependencies()
     i = 0
@@ -38,10 +42,10 @@ def extract_json():
         if len(word_adj_map[word]) < threshold:
             continue
         md_context = '\n'.join(["[[" + w + "]]" for w in word_adj_map[word]])
-        filename = "./db/" + beautify(word) + ".md"
         i += 1
-        with open(filename, 'w') as file:
-            file.write(md_context)
+        filename = folder_to_zip + "/" + beautify(word) + ".md"
+        save_file(filename, md_context)
+        
     print(f"Extracted {i} files with links > {threshold} to *.md")
 
 extract_json()

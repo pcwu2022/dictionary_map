@@ -3,19 +3,22 @@ import json
 import time
 
 DICT_API = "https://api.dictionaryapi.dev/api/v2/entries/en"
+WORDLIST_FILE = "../data/wordlist_2.txt"
+OUTPUT_FILE = "../data/word_adj_map.json"
+
 word_adj_map = {}
 current_parsing = "a"
 word_list = []
 
 def load_wordlist():
     global word_list
-    with open("wordlist_2.txt", "r") as file:
+    with open(WORDLIST_FILE, "r") as file:
         word_list = file.read().split('\n')
 
 def load_dependencies():
     global current_parsing
     global word_adj_map
-    with open("word_adj_map.json", "r") as file:
+    with open(OUTPUT_FILE, "r") as file:
         word_adj_map = json.loads(file.read())
     current_parsing = word_adj_map["current_parsing"]
 
@@ -23,7 +26,7 @@ def dump_dependencies():
     global word_adj_map
     global current_parsing
     word_adj_map["current_parsing"] = current_parsing
-    with open("word_adj_map.json", "w") as file:
+    with open(OUTPUT_FILE, "w") as file:
         file.write(json.dumps(word_adj_map, indent=4, ensure_ascii=False))
 
 def get_def(word):
