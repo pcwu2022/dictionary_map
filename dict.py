@@ -81,6 +81,7 @@ def generate_map(limit=1200, batch=400, step=10):
             print(f"sleeping for {5 * 60 - (current_time - start_time)} seconds...")
             time.sleep(5 * 60 - (current_time - start_time))
             start_time = time.time() # seconds
+    dump_dependencies()
             
 
 # program execute
