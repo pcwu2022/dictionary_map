@@ -70,7 +70,7 @@ def generate_map(limit=1200, batch=400, step=10):
     load_dependencies()
     start_time = time.time()
     start_index = word_list.index(current_parsing)
-    for i in range(limit):
+    for i in range(min(limit, len(word_list) - start_index)):
         find_dependencies(word_list[start_index + i])
         if i % step == step - 1:
             current_parsing = word_list[start_index + i + 1]
