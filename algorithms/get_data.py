@@ -3,8 +3,8 @@ import json
 import time
 
 DICT_API = "https://api.dictionaryapi.dev/api/v2/entries/en"
-WORDLIST_FILE = "../data/wordlist_2.txt"
-OUTPUT_FILE = "../data/word_adj_map.json"
+WORDLIST_FILE = "data/wordlist_2.txt"
+OUTPUT_FILE = "data/word_adj_map.json"
 
 word_adj_map = {}
 current_parsing = "a"
@@ -73,18 +73,32 @@ def generate_map(limit=1200, batch=400, step=10):
     load_dependencies()
     start_time = time.time()
     start_index = word_list.index(current_parsing)
+    print(f"""
+--- DICTIONARY MAP V1 ---
+
+Fetching {limit} words from {DICT_API}
+Batch Size: {400}
+Batch Execution Time: {5*60} seconds
+Word Source File: {WORDLIST_FILE}
+Saving to File: {OUTPUT_FILE}
+Saving Every {step} Executions
+Starting from \"{word_list[start_index]}\"...
+    """)
     for i in range(min(limit, len(word_list) - start_index)):
         find_dependencies(word_list[start_index + i])
         if i % step == step - 1:
             current_parsing = word_list[start_index + i + 1]
-            print("Parsing: " + current_parsing)
+            print(f"Finished {start_index + i} Words. Current Parsing: {current_parsing}")
             dump_dependencies()
         if i % batch == batch - 1:
             current_time = time.time()
-            print(f"sleeping for {5 * 60 - (current_time - start_time)} seconds...")
+            print(f"Batch {i//batch} Finished. Sleeping for {5 * 60 - (current_time - start_time)} Seconds...")
             time.sleep(5 * 60 - (current_time - start_time))
             start_time = time.time() # seconds
-    dump_dependencies()
+    if (len(word_list) - start_index < limit):
+        print(f"Program Execution Finished.")
+        current_parsing = "a"
+        dump_dependencies()
             
 
 # program execute

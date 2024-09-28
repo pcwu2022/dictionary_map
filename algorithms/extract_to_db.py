@@ -4,8 +4,8 @@ import os
 
 threshold = 150
 
-folder_to_zip = '../db'
-output_zip_file = '../db_vault.zip'
+folder_to_zip = 'db'
+output_zip_file = 'db_vault.zip'
 def zip_folder(folder_path, output_zip):
     # Create a ZipFile object
     with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
